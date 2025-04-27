@@ -25,7 +25,6 @@ yarn serve
 
 The application will be launched by [Nodemon](https://nodemon.com) so it's will restart automatically on file change
 
-Test the API with: `Postman`
 
 ## Authors
 
@@ -38,7 +37,10 @@ This project is maintained by:
 
 <br/>
 
-## Screenshoot
+## Demo
+
+
+https://github.com/user-attachments/assets/bb96836b-bbae-457e-a657-6100547500b4
 
 ## License
 
