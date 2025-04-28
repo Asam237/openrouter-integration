@@ -1,6 +1,6 @@
 # Openai-API-Nodejs-Express
 
-This is a simple Node.js application that uses the OpenAI API to generate text based on user input. The application is built using Express and provides a RESTful API for interacting with the OpenAI API.
+This is a simple Node.js application that uses the OpenAI API to generate text based on user input. The application is built using Express and provides for interacting with the OpenAI API.
 
 ## Prerequisites
 
