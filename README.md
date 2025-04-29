@@ -6,7 +6,7 @@ This is a simple Node.js application that uses the OpenAI API to generate text b
 
 - Node.js 16+
 - Yarn
-- Key from OpenAI API
+- [Key from OpenAI API](https://openrouter.ai/api/v1)
 
 ## Installation
 
